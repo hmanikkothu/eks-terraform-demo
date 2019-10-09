@@ -3,4 +3,4 @@ This is a slightly modified version of the EKS demo from https://learn.hashicorp
 
 This example provides a 3 availability zone worker nodes installation for better resilency.
 
-See the article https://medium.com/@hari.manikkothu/set-up-resilient-kubernetes-cluster-using-aws-eks-59034386ae69 for more details.
+See the article https://medium.com/manikkothu/set-up-resilient-kubernetes-cluster-in-aws-eks-using-terraform-7fe5a43fb23f for more details.
